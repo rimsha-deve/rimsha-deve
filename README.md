@@ -71,8 +71,7 @@ me.say_hi()
 | [🎙️ Jarvis AI Voice Assistant](https://github.com/rimsha-deve/jarvis-ai-voice-assistant) | Wake-word activated voice assistant with local AI, live news & web browsing | Python, Ollama, SpeechRecognition, gTTS |
 | [🔢 Number Guessing Game](https://github.com/rimsha-deve/number-guessing-game) | Interactive CLI game with difficulty levels and smart hints | Python |
 | [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest | Python, NumPy |
-| [🤖 WhatsApp Chatbot](https://github.com/rimsha-deve/whatsapp-chatbot) | AI-powered WhatsApp automation bot | Python, Gemini API |
-
+| [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
 ---
 
 ## 📈 My Learning Roadmap
