@@ -72,7 +72,7 @@ me.say_hi()
 | [🔢 Number Guessing Game](https://github.com/rimsha-deve/number-guessing-game) | Interactive CLI game with difficulty levels and smart hints | Python |
 | [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest | Python, NumPy |
 | [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
----
+| 🎵 [Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
 
 ## 📈 My Learning Roadmap
 
