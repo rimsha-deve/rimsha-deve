@@ -73,6 +73,7 @@ me.say_hi()
 | [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest | Python, NumPy |
 | [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
 | 🎵 [Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
+| [🧠 Neural Network from Scratch (NumPy Only)](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built from scratch using forward & backward propagation | Python, NumPy |
 
 ## 📈 My Learning Roadmap
 
