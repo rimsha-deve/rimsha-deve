@@ -74,7 +74,7 @@ me.say_hi()
 | [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
 | 🎵 [Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
 | [🧠 Neural Network from Scratch (NumPy Only)](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built from scratch using forward & backward propagation | Python, NumPy |
-
+| 📊 [Student Performance Analysis](https://github.com/rimsha-deve/student-performance-analysis) | Exploratory Data Analysis on 10,000 students to uncover patterns in academic performance and key influencing factors | Python, Pandas, NumPy, Matplotlib, Seaborn |
 ## 📈 My Learning Roadmap
 
 ```
