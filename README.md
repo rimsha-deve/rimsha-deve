@@ -80,8 +80,9 @@ me.say_hi()
 ```
 ✅ Python Fundamentals          ████████████████████  DONE
 ✅ Projects (Jarvis, Chatbot)   ████████████████████  DONE
-🔄 NumPy + Pandas               ██████████░░░░░░░░░░  IN PROGRESS
-⏳ Data Visualization           ░░░░░░░░░░░░░░░░░░░░  NEXT
+✅ NumPy                      ████████████████████  COMPLETED
+✅ Pandas                     ████████████████████  COMPLETED
+🔄 Data Visualization           ████████░░░░░░░░░░░░  IN PROGRESS
 ⏳ Machine Learning             ░░░░░░░░░░░░░░░░░░░░  UPCOMING
 ⏳ Deep Learning                ░░░░░░░░░░░░░░░░░░░░  UPCOMING
 ⏳ LangChain + Agentic AI       ░░░░░░░░░░░░░░░░░░░░  THE GOAL 🎯
