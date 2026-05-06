@@ -101,7 +101,6 @@ me.say_hi()
 <img src="https://streak-stats.demolab.com?user=rimsha-deve&theme=tokyonight&hide_border=true" />
 
 </div>
----
 
 ## 💡 My Philosophy
 
