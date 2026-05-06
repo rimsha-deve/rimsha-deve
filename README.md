@@ -110,7 +110,7 @@ me.say_hi()
 
 I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started with zero guidance and built real AI projects from scratch. No shortcuts. Just consistency, curiosity, and code.
 
-My goal? To become a **remote AI Engineer** working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
+My goal? To become a **an AI Engineer** working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
 
 ---
 
