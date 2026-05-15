@@ -101,19 +101,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimsha-deve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Rimsha's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## 💡 My Philosophy
 
