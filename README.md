@@ -12,7 +12,7 @@
 # Hey, I'm Rimsha Shaukat 👋
 ### 🤖 AI Engineer in the Making | Python Developer | Builder of Intelligent Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Built+AI+Voice+Assistant+%26+WhatsApp+Bot+%F0%9F%A4%96;Data+Engineering+%7C+Web+Scraping+%7C+EDA+%F0%9F%93%8A;Learning+Machine+Learning+%F0%9F%A7%A0;Future+Remote+AI+Engineer+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Built+AI+Voice+Assistant+%26+WhatsApp+Bot+%F0%9F%A4%96;Data+Engineering+%7C+Web+Scraping+%7C+EDA+%F0%9F%93%8A;Learning+Machine+Learning+%F0%9F%A7%A0;Building+towards+AI+Engineering+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@ class RimshaShaukat:
         self.goal        = "AI Engineer @ International Company 🌍"
         self.learning    = ["Machine Learning", "Deep Learning", "LangChain"]
         self.building    = "AI tools that actually solve real problems"
-        self.superpower  = "Self-taught + unstoppable 💪"
+        self.superpower  = "Started from zero — still building 💪"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together.")
@@ -73,15 +73,12 @@ me.say_hi()
 
 | 🚀 Project | 📝 Description | 🔧 Tech Used |
 |-----------|---------------|-------------|
+| [🧠 Neural Network from Scratch](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built using only NumPy — forward & backward propagation, no ML libraries | Python, NumPy |
+| [🌤️ Lahore Weather Data Pipeline](https://github.com/rimsha-deve/lahore-weather-data) | End-to-end data engineering — 5 years of hourly weather data (43K rows) fetched from REST API, cleaned, feature-engineered & visualized. Published on Kaggle | Python, Pandas, Matplotlib, Seaborn, REST API |
+| [📚 Goodreads Fiction Books Dataset](https://github.com/rimsha-deve/-goodreads-fiction-books) | Scraped 25,000 fiction books across 500 pages — cleaned & feature-engineered with Regex. Published on Kaggle | Python, BeautifulSoup, Pandas, Regex |
+| [📊 Student Performance Analysis](https://github.com/rimsha-deve/student-performance-analysis) | EDA on 10,000 students uncovering academic performance patterns and key influencing factors | Python, Pandas, NumPy, Matplotlib, Seaborn |
 | [🎙️ Jarvis AI Voice Assistant](https://github.com/rimsha-deve/jarvis-ai-voice-assistant) | Wake-word activated voice assistant with local AI, live news & web browsing | Python, Ollama, SpeechRecognition, gTTS |
-| [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
-| [🧠 Neural Network from Scratch](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built using only NumPy — forward & backward propagation | Python, NumPy |
-| [🌤️ Lahore Weather Data Pipeline](https://github.com/rimsha-deve/lahore-weather-data) | End-to-end data engineering project — 5 years of hourly weather data fetched from REST API, cleaned, feature-engineered & visualized | Python, Pandas, Matplotlib, Seaborn, REST API |
-| [📚 Goodreads Fiction Books Dataset](https://github.com/rimsha-deve/-goodreads-fiction-books) | Scraped 25,000 fiction books from Goodreads across 500 pages — cleaned & feature-engineered with Regex | Python, BeautifulSoup, Pandas, Regex |
-| [📊 Student Performance Analysis](https://github.com/rimsha-deve/student-performance-analysis) | EDA on 10,000 students to uncover academic performance patterns and key influencing factors | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| [🎵 Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
-| [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest scores | Python, NumPy |
-| [🔢 Number Guessing Game](https://github.com/rimsha-deve/number-guessing-game) | Interactive CLI game with difficulty levels and smart hints | Python |
+| [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot powered by LLaMA 3.3 via Groq | Python, Groq, LLaMA 3.3 |
 
 ---
 
@@ -104,11 +101,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimsha-deve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=rimsha-deve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Rimsha's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-deve&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -118,7 +119,7 @@ me.say_hi()
 
 > *"I don't wait for opportunities — I build them. One project at a time, one commit at a time."*
 
-I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started from zero and built real AI projects from scratch. No shortcuts. Just consistency, curiosity, and code.
+I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started from zero and built real AI and data engineering projects from scratch. No shortcuts. Just consistency, curiosity, and code.
 
 My goal? To become an AI Engineer working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
 
