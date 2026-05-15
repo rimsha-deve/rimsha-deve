@@ -12,7 +12,7 @@
 # Hey, I'm Rimsha Shaukat 👋
 ### 🤖 AI Engineer in the Making | Python Developer | Builder of Intelligent Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Building+AI+Voice+Assistants+%F0%9F%8E%99%EF%B8%8F;Learning+NumPy+%2B+Pandas+%F0%9F%93%8A;On+the+path+to+AI+%2F+ML+Engineer+%F0%9F%9A%80;Future+Remote+AI+Engineer+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Built+AI+Voice+Assistant+%26+WhatsApp+Bot+%F0%9F%A4%96;Data+Engineering+%7C+Web+Scraping+%7C+EDA+%F0%9F%93%8A;Learning+Machine+Learning+%F0%9F%A7%A0;Future+Remote+AI+Engineer+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,8 +28,8 @@ class RimshaShaukat:
         self.university  = "BSCS — 6th Semester"
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.goal        = "Remote AI Engineer @ International Company 🌍"
-        self.learning    = ["NumPy", "Pandas", "Machine Learning"]
-        self.building    = "AI tools that actually solve problems"
+        self.learning    = ["Machine Learning", "Deep Learning", "LangChain"]
+        self.building    = "AI tools that actually solve real problems"
         self.superpower  = "Self-taught + unstoppable 💪"
 
     def say_hi(self):
@@ -50,6 +50,11 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+### Data & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### AI & Tools
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -69,12 +74,17 @@ me.say_hi()
 | 🚀 Project | 📝 Description | 🔧 Tech Used |
 |-----------|---------------|-------------|
 | [🎙️ Jarvis AI Voice Assistant](https://github.com/rimsha-deve/jarvis-ai-voice-assistant) | Wake-word activated voice assistant with local AI, live news & web browsing | Python, Ollama, SpeechRecognition, gTTS |
-| [🔢 Number Guessing Game](https://github.com/rimsha-deve/number-guessing-game) | Interactive CLI game with difficulty levels and smart hints | Python |
-| [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest | Python, NumPy |
 | [🤖 WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | AI-powered WhatsApp automation bot that replies like a Pakistani friend | Python, Groq, LLaMA 3.3 |
-| 🎵 [Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
-| [🧠 Neural Network from Scratch (NumPy Only)](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built from scratch using forward & backward propagation | Python, NumPy |
-| 📊 [Student Performance Analysis](https://github.com/rimsha-deve/student-performance-analysis) | Exploratory Data Analysis on 10,000 students to uncover patterns in academic performance and key influencing factors | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| [🧠 Neural Network from Scratch](https://github.com/rimsha-deve/neural-network-scratch) | Fully functional neural network built using only NumPy — forward & backward propagation | Python, NumPy |
+| [🌤️ Lahore Weather Data Pipeline](https://github.com/rimsha-deve/lahore-weather-data) | End-to-end data engineering project — 5 years of hourly weather data fetched from REST API, cleaned, feature-engineered & visualized | Python, Pandas, Matplotlib, Seaborn, REST API |
+| [📚 Goodreads Fiction Books Dataset](https://github.com/rimsha-deve/-goodreads-fiction-books) | Scraped 25,000 fiction books from Goodreads across 500 pages — cleaned & feature-engineered with Regex | Python, BeautifulSoup, Pandas, Regex |
+| [📊 Student Performance Analysis](https://github.com/rimsha-deve/student-performance-analysis) | EDA on 10,000 students to uncover academic performance patterns and key influencing factors | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| [🎵 Mood Music Recommender](https://github.com/rimsha-deve/mood-music-recommender) | Mood-based music recommender with smart shuffle & YouTube auto-launch | Python, NumPy |
+| [📊 Student Marks Analyzer](https://github.com/rimsha-deve/student-marks-analyzer) | Analyzes student performance — averages, pass/fail, highest/lowest scores | Python, NumPy |
+| [🔢 Number Guessing Game](https://github.com/rimsha-deve/number-guessing-game) | Interactive CLI game with difficulty levels and smart hints | Python |
+
+---
+
 ## 📈 My Learning Roadmap
 
 ```
@@ -82,8 +92,8 @@ me.say_hi()
 ✅ Projects (Jarvis, Chatbot)   ████████████████████  DONE
 ✅ NumPy                        ████████████████████  DONE
 ✅ Pandas                       ████████████████████  DONE
-🔄 Data Visualization           ████████░░░░░░░░░░░░  IN PROGRESS
-⏳ Machine Learning             ░░░░░░░░░░░░░░░░░░░░  UPCOMING
+✅ Data Visualization           ████████████████████  DONE
+🔄 Machine Learning             ████████░░░░░░░░░░░░  IN PROGRESS
 ⏳ Deep Learning                ░░░░░░░░░░░░░░░░░░░░  UPCOMING
 ⏳ LangChain + Agentic AI       ░░░░░░░░░░░░░░░░░░░░  THE GOAL 🎯
 ```
@@ -98,9 +108,11 @@ me.say_hi()
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-deve&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://streak-stats.demolab.com?user=rimsha-deve&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-deve&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
 
 ## 💡 My Philosophy
 
@@ -108,7 +120,7 @@ me.say_hi()
 
 I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started with zero guidance and built real AI projects from scratch. No shortcuts. Just consistency, curiosity, and code.
 
-My goal? To become a **an AI Engineer** working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
+My goal? To become an AI Engineer working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
 
 ---
 
@@ -116,9 +128,9 @@ My goal? To become a **an AI Engineer** working on cutting-edge AI systems for i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimsha-shaukat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimsha-shaukat-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsha-deve)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maherrimsha786@gmail.com)
 
 ---
 
