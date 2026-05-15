@@ -27,7 +27,7 @@ class RimshaShaukat:
         self.role        = "Aspiring AI Engineer"
         self.university  = "BSCS — 6th Semester"
         self.location    = "Lahore, Pakistan 🇵🇰"
-        self.goal        = "Remote AI Engineer @ International Company 🌍"
+        self.goal        = "AI Engineer @ International Company 🌍"
         self.learning    = ["Machine Learning", "Deep Learning", "LangChain"]
         self.building    = "AI tools that actually solve real problems"
         self.superpower  = "Self-taught + unstoppable 💪"
@@ -118,7 +118,7 @@ me.say_hi()
 
 > *"I don't wait for opportunities — I build them. One project at a time, one commit at a time."*
 
-I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started with zero guidance and built real AI projects from scratch. No shortcuts. Just consistency, curiosity, and code.
+I'm a self-taught developer from Lahore, Pakistan 🇵🇰 who started from zero and built real AI projects from scratch. No shortcuts. Just consistency, curiosity, and code.
 
 My goal? To become an AI Engineer working on cutting-edge AI systems for international companies — and to prove that where you're from never limits how far you can go. 🌍
 
