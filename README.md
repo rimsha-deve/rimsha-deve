@@ -101,7 +101,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
