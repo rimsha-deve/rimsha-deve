@@ -101,8 +101,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimsha-deve&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
