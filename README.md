@@ -99,11 +99,9 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rimsha-deve&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ## 💡 My Philosophy
 
