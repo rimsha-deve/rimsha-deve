@@ -97,13 +97,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rimsha-deve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## 💡 My Philosophy
 
