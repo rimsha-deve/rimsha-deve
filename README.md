@@ -82,20 +82,6 @@ me.say_hi()
 
 ---
 
-## 📈 My Learning Roadmap
-
-```
-✅ Python Fundamentals          ████████████████████  DONE
-✅ Projects (Jarvis, Chatbot)   ████████████████████  DONE
-✅ NumPy                        ████████████████████  DONE
-✅ Pandas                       ████████████████████  DONE
-✅ Data Visualization           ████████████████████  DONE
-🔄 Machine Learning             ████████░░░░░░░░░░░░  IN PROGRESS
-⏳ Deep Learning                ░░░░░░░░░░░░░░░░░░░░  UPCOMING
-⏳ LangChain + Agentic AI       ░░░░░░░░░░░░░░░░░░░░  THE GOAL 🎯
-```
-
----
 
 
 ## 💡 My Philosophy
