@@ -19,7 +19,7 @@ Built Angular enterprise UI (Kendo grids, reactive forms, lazy routes, guards, J
 | Project | What it does | Stack |
 |---|---|---|
 | [ARISE](https://github.com/rimsha-deve/arise) | Five role-bound AI agents behind one execution-governance layer | Python, FastAPI, LangGraph (planned) |
-| [Invora](https://github.com/rimsha-deve/invora) | Multi-tenant warehouse and inventory ERP: order-to-cash, procure-to-pay, invoicing, audit log | FastAPI, React, SQLAlchemy, MySQL |
+| [Invora](https://github.com/rimsha-deve/invora-management-system-) | Multi-tenant warehouse and inventory ERP: order-to-cash, procure-to-pay, invoicing, audit log | FastAPI, React, SQLAlchemy, MySQL |
 | [Neural Network from Scratch](https://github.com/rimsha-deve/neural-network-scratch) | Forward/backward propagation, no ML libraries | Python, NumPy |
 | [WhatsApp AI Bot](https://github.com/rimsha-deve/whatsapp-ai-bot) | Auto-replies with LLaMA 3.3 70B via Groq | Python, Groq |
 | [Lahore Weather Pipeline](https://github.com/rimsha-deve/lahore-weather-data) · [Goodreads Dataset](https://github.com/rimsha-deve/goodreads-fiction-books) | Two datasets published on Kaggle | Pandas, BeautifulSoup |
